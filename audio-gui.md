@@ -1,0 +1,6 @@
+- audacity
+- ardour
+- vlc
+- kodi
+- gnome alsa mixer
+- pulseaudio

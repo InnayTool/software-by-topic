@@ -1,0 +1,3 @@
+- imagemagick
+  - convert
+  - identify
